@@ -1,0 +1,7 @@
+FluentValidation.Tests.WebApi2/bin/
+FluentValidation.Tests.WebApi2/obj/
+FluentValidation.WebApi2/bin/
+FluentValidation.WebApi2/obj/
+packages/
+*.suo
+*.user
